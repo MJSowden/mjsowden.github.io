@@ -11,21 +11,21 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border: 1px solid white;
+  border: 0.5px solid white;
   border-radius: 15px;
 }
 	
 li a {
   text-align: center;
   display: block;
-  width: 380px;
+  width: 404px;
   border: 2px solid white;
   border-radius: 15px;
   padding-top: 3px;
   padding-right: 4px;
   margin: 2px;
   background-color: white;
-  float: right;
+  float: left;
   bottom: 10px;
    color: black;
   text-shadow: 2px black;
