@@ -17,10 +17,10 @@ ul {
 	
 li a {
   text-align: center;
-  display: inline-block;
+  display: inline;
   width: 50px;
   border: 0px solid white;
-  border-radius: 0px;
+  border-radius: 15px;
   padding-top: 3px;
   padding-right: 4px;
   margin: 2px;
