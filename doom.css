@@ -1,0 +1,110 @@
+body {
+    background-image: url('sun2.jpg');
+    background-repeat: no-repeat;
+    background-size: 1280px 720px;
+	opacity: 0.9;
+	font-family: 'Bebas Neue', arial, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid white;
+  border-radius: 15px;
+}
+	
+li a {
+  text-align: center;
+  display: block;
+  width: 404px;
+  border: 2px solid white;
+  border-radius: 15px;
+  padding-top: 3px;
+  padding-right: 4px;
+  margin: 2px;
+  background-color: white;
+  float: right;
+  bottom: 10px;
+   color: black;
+  text-shadow: 2px black;
+  text-decoration: none;
+  bottom: 10px;
+  font-size: 1.5em;
+}
+
+li:hover{
+	opacity: 0.5;
+}
+
+
+h1 {
+	color: white;
+	text-align: center;
+	margin-top: 300px;
+	padding-right: 75px;
+	opacity: 0.2;
+}
+
+h1 a {
+	color: white;
+}
+
+h1:hover {
+	text-decoration: line-through;
+	opacity: 1;
+}
+
+img {
+    max-width:50%;
+    height:auto;
+    border: 0px solid white;
+    border-radius: 15px;
+    margin: auto;
+    position: relative;
+    display: none;
+    opacity: 0.5;
+}
+
+img:hover {
+	opacity: 0.2;
+}
+
+h2 {
+	color: white;
+	font-size: 5em;
+	padding-left: 40px;
+}
+.bio  {
+	text-align: center;
+	color: white;
+	border-bottom: 2px solid white;
+	border-radius: 1;
+}
+
+.album { 
+	text-align: center;
+	color: white;
+	border-bottom: 2px solid white;
+	border-radius: 1;  
+}
+.bandcamp {
+	margin: 0px;
+	padding-left: 400px;
+	opacity: 0.5;
+}
+
+.videocontainer {
+	display: inline-block;
+}
+
+.video {
+	display: inline-block;
+	padding: 0px 50px;
+}
+
+.video2 {
+	display: inline-block;
+	padding: 0px 50px;
+}
